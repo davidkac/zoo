@@ -112,6 +112,8 @@ function App() {
     alert(JSON.stringify(sectorAnimals))
   }
 
+  const [aaa,setaaa] = useState();
+
 
 
 return (
